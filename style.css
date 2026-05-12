@@ -1,0 +1,25 @@
+.container {
+    background-color: rgb(234, 234, 234);
+    width: 80%;
+    margin: auto;
+    padding-bottom: 30px;
+    
+}
+
+.navbar {
+    background-color: rgb(41, 41, 41);
+    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.para1 {
+    margin-left: 20px;
+    color: grey;
+}
