@@ -1,25 +1,30 @@
 .container {
-    background-color: rgb(234, 234, 234);
-    width: 80%;
-    margin: auto;
-    padding-bottom: 30px;
-    
+  background-color: rgb(234, 234, 234);
+  width: 80%;
+  margin: auto;
+  padding-bottom: 23px;
 }
 
 .navbar {
-    background-color: rgb(41, 41, 41);
-    padding-bottom: 40px;
-    padding-top: 10px;
-    padding-left: 10px;
+  background-color: rgb(41, 41, 41);
+  padding-bottom: 23px;
+  padding-top: 1px;
+  /* padding-left: 10px; */
 }
 
 .navbar a {
-    text-decoration: none;
-    color: white;
-    margin-right: 20px;
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
 }
 
 .para1 {
-    margin-left: 20px;
-    color: grey;
+  margin-left: 20px;
+  color: grey;
 }
